@@ -1,7 +1,7 @@
 #include "FastLED.h"
 #define NUM_LEDS 5
 CRGB leds[NUM_LEDS];
-#define PIN 6
+#define PIN 6 //LOLLLO
 
 void setup()
 {
